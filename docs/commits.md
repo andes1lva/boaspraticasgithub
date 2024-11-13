@@ -7,5 +7,9 @@
             Ex:. "Se estas a commitar um arquivo index.HTML -> Exemplifique a ação. Algo assim: exemplo: git commit -m "feature#13: "Criando o Index.html e seu esqueleto inicial";
 
 2. ## Dica Número 2 :computer:
-        - Jamais, :fire: jamais!! commit deste jeito git commit -m "Hello Word - meu primeiro hello word em github"
+        - Jamais :fire: jamais!! commit deste jeito aqui -> git commit -m "Hello Word - meu primeiro hello word em github"
+        - Utilize do commando reflogs no terminal para abrir a àrvore de commits e assim facilitar e identificar commits anteriores caso 
+          seja necessário.
+        - Volte ao último commit com o camando: git reset HEAD~1 caso queira desfazer alguma atualização.
+        
 
