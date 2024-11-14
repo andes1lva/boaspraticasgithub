@@ -1,4 +1,4 @@
-# Como escrever Commits concisos e claros! Legal? :smile:
+# Como escrever Commits concisos e claros :exclamation: Legal? :smile:
 
 1. ## Dica Número 1. :computer:
         - Sempre commit uma funcionalidade por vez
